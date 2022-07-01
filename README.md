@@ -1,10 +1,8 @@
-# olá, mundo!
- primeiro repositorio versionado de git e github
+# olá, mundo!🌏
+##  primeiro repositório versionado de git e Github
 
-<<<<<<< Updated upstream
- repositório criado durante uma aula ao vivo!
- 
-Essa linha eu adicionei direta  vmente no site! QUE IMPRESSIONANTE!!
-=======
+##  repositório criado durante uma aula ao vivo!🦊
+
+Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE!!
+
  repositório criado durante uma aula ao vivo!  
->>>>>>> Stashed changes
